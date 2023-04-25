@@ -1,4 +1,4 @@
-//7. To calculate Fibonacci Series up to n numbers.
+package Assignment2;//7. To calculate Fibonacci Series up to n numbers.
 import  java.util.Scanner;
 public class Assignment2Question7 {
     public static void main(String[] args) {

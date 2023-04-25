@@ -1,3 +1,5 @@
+package Assignment2;
+
 import java.util.Scanner;
 /*Take name as input and print a greeting message for that particular name*/
 public class Assignment2Question2 {

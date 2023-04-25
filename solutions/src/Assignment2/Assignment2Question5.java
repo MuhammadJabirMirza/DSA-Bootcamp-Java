@@ -1,4 +1,4 @@
-//5. Take 2 numbers as input and print the largest number.
+package Assignment2;//5. Take 2 numbers as input and print the largest number.
 import java.util.Scanner;
 public class Assignment2Question5 {
     public static void main(String[] args) {

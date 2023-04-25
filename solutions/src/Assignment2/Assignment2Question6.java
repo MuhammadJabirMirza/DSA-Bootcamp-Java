@@ -1,4 +1,4 @@
-//6. Input currency in rupees and output in USD.
+package Assignment2;//6. Input currency in rupees and output in USD.
 import java.util.Scanner;
 public class Assignment2Question6 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-//8. To find out whether the given String is Palindrome or not.
+package Assignment2;//8. To find out whether the given String is Palindrome or not.
 import java.util.Scanner;
 public class Assignment2Question8 {
     public static void main(String[] args) {
